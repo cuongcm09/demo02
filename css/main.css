@@ -1,0 +1,10 @@
+*{margin:0;padding:0;}
+.content{
+	background:#999;
+	}
+header{
+    
+    background:url(../images/banner.png) no-repeat center top;
+    margin: 0 auto;
+    height: 1000px; 
+}
